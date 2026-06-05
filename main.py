@@ -182,7 +182,7 @@ def start_command(message):
     user_data = db.register_user(user_id, username, nombre)
 
     texto = f"""
-<b>N4 STYLEE SERVICES | PORTAL CENTRAL</b>
+<b>ORIONXN SERVICES | PORTAL CENTRAL</b>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Saludos, <b>{nombre}</b>. Bienvenido al sistema avanzado de gestión y consulta digital.
