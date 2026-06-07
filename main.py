@@ -13,7 +13,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger("System_Core")
 
-TOKEN = "8881399062:AAGnfsW0ITpj0VvFD4B84Jd8FlY77-9RXMI"
+TOKEN = "8842118319:AAHGOUpe0DI8VnB2j33DvzdSOQ0YLojS7xw"
 OWNER_ID = 7262260763
 WHATSAPP = "https://wa.me/525551761906"
 
